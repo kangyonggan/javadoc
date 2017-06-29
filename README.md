@@ -150,6 +150,6 @@ javadoc -d /Users/kyg/docs/hello /Users/kyg/Hello.java
 2. 文档描述使用的是html语法，换行使用<br>，段落使用<p>等。
 3. 如果使用的是idea，可以在"File and Code Templates"中配置文件模板。
 4. 生成文档过程中，如果注释写的不规范，生成过程会报警告，可以按警告提示去完善注释，也可以直接忽略。
-5. 我的一个小d[emo](https://github.com/kangyonggan/javadoc.git)
+5. 我的一个小[demo](https://github.com/kangyonggan/javadoc.git)
 
 
